@@ -1,0 +1,13 @@
+
+ STEP :
+	
+	1. Download and Install xampp.
+		You can download in website: https://www.apachefriends.org/zh_tw/index.html
+
+	2. You can find out how to change passwords and set environment variables 
+	on this website. https://campus-xoops.tn.edu.tw/modules/tad_book3/page.php?tbsn=37&tbdsn=1135
+
+	3. You will need a compiler, so here recommends download VS Code.
+
+	4. Clone project. 
+		How to clone? Here >>> https://www.youtube.com/watch?v=CKcqniGu3tA

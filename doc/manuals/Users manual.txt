@@ -1,0 +1,13 @@
+
+ STEP : 
+	
+	1. Before executing, open xampp_control.exe. 
+
+	2. Start Apache. When you jump out of a firewall notification, let it pass.
+
+	3. Our database is in phpMyadmin webpage built a database called xampp, a table called 
+	   Users, there are ID Username Email Password.
+
+	4. Put our project on xampp/htdocs/
+
+	5. Into the website >>> (localhost/file name)
